@@ -21,3 +21,10 @@ Lista ordenada
 [Google](https://www.google.com)
 
 ![Gtr](https://github.com/XaviiConde/RepositorioDePrueba/blob/main/nissan_gtr_widebody.jpg "Imagen de Gtr")
+
+| Título | Título 2 | Título 3|
+|--------|:-----------|----------:|
+| Nombre | Apellido | Apellido 2
+| Nombre2| Apellido 3 | Apellido4|
+| Col 3 | está alineada| derecha|
+| Col 2 | está alineada | centro |
