@@ -20,4 +20,4 @@ Lista ordenada
 
 [Google](https://www.google.com)
 
-![Gtr](https://github.com/XaviiConde/RepositorioDePrueba/blob/main/nissan_gtr_widebody.jpg)
+![Gtr](https://github.com/XaviiConde/RepositorioDePrueba/blob/main/nissan_gtr_widebody.jpg "Imagen de Gtr")
